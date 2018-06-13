@@ -100,14 +100,14 @@ a:visited {
     background-color: darkcyan;
 }
 
+    .rectanglesmall:hover {
+        background-color: cornflowerblue;
+    }
 
-	.rectanglebig:hover {
-   		 background-color: darkgray;
+.rectanglebig:hover {
+    background-color: darkgray;
 }
 
-	.rectanglesmaller:hover {
-       		 background-color: cornflowerblue;
-    }
 
 #slideshow {
     height: 265px;
@@ -133,10 +133,9 @@ a:visited {
     background-color: gray;
     padding: 10px;
     margin: 30px;
+   
     margin-right: auto;
 }
-
-
 
 #zegar {
     float: left;
@@ -204,9 +203,3 @@ body {
     font-weight: bold;
 }
 
-.error
-{
-color: red;
-margin-top: 10px;
-margin-bottom: 10px;
-}
